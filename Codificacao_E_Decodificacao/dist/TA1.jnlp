@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="TA1.jnlp">
+  <information>
+    <title>TA1</title>
+    <vendor>bilha</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="TA1.jar" size="84353" download="eager" />
+  </resources>
+  <application-desc main-class="ta1.TA1"  name="TA1" >
+  </application-desc>
+  <update check="always"/>
+</jnlp>
